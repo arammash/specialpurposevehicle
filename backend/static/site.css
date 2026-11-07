@@ -373,6 +373,11 @@ img {
     grid-template-columns: 1fr;
   }
 
+  .artist-list,
+  .other-artist-list {
+    left: 0;
+  }
+
   .artist-exhibitions {
     grid-template-columns: 1fr;
     gap: 1rem;
