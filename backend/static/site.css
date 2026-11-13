@@ -15,7 +15,7 @@
 }
 
 body {
-  font-family: "Public Sans", sans-serif;
+  font-family: "IBM Plex Mono", monospace;
   max-width: 70rem;
   margin: 2rem auto;
   padding: 0 1rem;
